@@ -2,6 +2,6 @@
 
 int main(int arrc, const char** argv)
 {
-    std::cout << "Hello Wolrd" << std::endl;
+    std::cout << "Hello Opengl" << std::endl;
     return 0;
 }
